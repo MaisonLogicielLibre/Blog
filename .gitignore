@@ -40,6 +40,9 @@
 # track Makefile
 !Makefile
 
+# track README
+!README.md
+
 # wordpress index
 !index.php
 
